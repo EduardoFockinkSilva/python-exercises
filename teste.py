@@ -7,3 +7,4 @@ print('==================================')
 num = int(input('insert a number: '))
 
 print((num * 5) % 3)
+
